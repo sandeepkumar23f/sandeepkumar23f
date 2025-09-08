@@ -53,3 +53,24 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## 🎨 UI Libraries and Frameworks  
+![Next UI](https://img.shields.io/badge/Next%20UI-000000?style=for-the-badge&logo=nextui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-3178C6?style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-9F2B68?style=for-the-badge)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-50C878?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP Animation](https://img.shields.io/badge/GSAP%20Animation-00BFFF?style=for-the-badge&logo=greensock&logoColor=white)
+
+---
+
+## 💡 Other Technologies  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-800080?style=for-the-badge)
+
