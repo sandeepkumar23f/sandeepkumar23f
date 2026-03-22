@@ -69,7 +69,6 @@
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-800080?style=for-the-badge)
 
 ---
 
