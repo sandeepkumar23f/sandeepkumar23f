@@ -1,5 +1,5 @@
 ## Hi there👋
-# 💫 Profile Stats  
+# 💫 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar23f&color=blue)
 ![Followers](https://img.shields.io/github/followers/sandeepkumar23f?label=Followers&style=social)
