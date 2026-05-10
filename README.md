@@ -1,9 +1,9 @@
 ## Hi there👋 
 # 💫 Profile Stats
 
-![Profile Views] (https://komarev.com/ghpvc/?username=sandeepkumar23f&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar23f&color=blue)
 ![Followers](https://img.shields.io/github/followers/sandeepkumar23f?label=Followers&style=social)
-![Stars] (https://img.shields.io/github/stars/sandeepkumar23f?affiliations=OWNER&style=social)
+![Stars](https://img.shields.io/github/stars/sandeepkumar23f?affiliations=OWNER&style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/sandeepkumar23f/sandeepkumar23f)
 
 ---
