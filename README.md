@@ -87,13 +87,6 @@ const sandeep = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar23f&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
 
 ---
 
@@ -107,25 +100,17 @@ const sandeep = {
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/sandeepkumar23f/sandeepkumar23f/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar-b9674829a/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio12s.netlify.app/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepk572y@gmail.com)
 
 </div>
 
