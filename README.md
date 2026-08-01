@@ -17,7 +17,6 @@ const sandeep = {
     role: "Full Stack Web & App Developer",
     stack: ["MERN", "React Native", "Next.js", "SQL"],
     passion: "Engineering scalable modern web & mobile experiences",
-    currentlyLearning: ["System Design", "Docker", "Cloud"],
     openToWork: true
 };
 ```
