@@ -61,20 +61,6 @@ const sandeep = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar23f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar23f&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
