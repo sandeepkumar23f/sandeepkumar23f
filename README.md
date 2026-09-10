@@ -73,15 +73,17 @@ const sandeep = {
 
 ---
 
+
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkumar23f&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkumar23f" />
 
 </div>
 
 ---
+
 
 
 
