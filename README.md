@@ -11,12 +11,15 @@
 <a href="https://www.linkedin.com/in/sandeep-kumar-b9674829a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://my-portfolio12s.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:sandeepk572y@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/sandeepkumar23f">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -24,7 +27,9 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sandeepkumar23f&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/sandeepkumar23f?label=Followers&style=for-the-badge&color=38BDF8&logo=github" />
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-✅-38BDF8?style=for-the-badge" />
 
 </div>
@@ -209,11 +214,11 @@ current_focus:
 <a href="https://www.linkedin.com/in/sandeep-kumar-b9674829a/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://my-portfolio12s.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:sandeepk572y@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
