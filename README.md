@@ -54,8 +54,7 @@ const sandeep: Developer = {
   },
   passion: "Engineering scalable modern web & mobile experiences",
   currentlyLearning: ["System Design", "AWS", "GraphQL"],
-  openToWork: true,
-  funFact: "I debug with console.log() and I'm proud of it 😄"
+  openToWork: true
 };
 ```
 
