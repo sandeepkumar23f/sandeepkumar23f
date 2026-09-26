@@ -53,7 +53,7 @@ const sandeep: Developer = {
     devops: ["Docker", "GitHub Actions", "Vercel", "Render"]
   },
   passion: "Engineering scalable modern web & mobile experiences",
-  currentlyLearning: ["System Design", "AWS", "GraphQL"],
+  
   openToWork: true
 };
 ```
