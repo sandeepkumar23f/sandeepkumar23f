@@ -30,7 +30,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/sandeepkumar23f?label=Followers&style=for-the-badge&color=38BDF8&logo=github" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-✅-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To%20Work--38BDF8?style=for-the-badge" />
 
 </div>
 
