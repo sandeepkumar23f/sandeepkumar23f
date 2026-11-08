@@ -68,7 +68,7 @@ const sandeep: Developer = {
 
 | <img src="https://img.icons8.com/fluency/96/web-design.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/iphone.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/server.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/database.png" width="60" /> |
 |:---:|:---:|:---:|:---:|
-| **Web Development** | **Mobile Apps** | **Backend APIs** | **Database Design** |
+| **Web Development** | **Mobile Apps** | **Backend APIs** | **Database Design** |**Generative AI** |
 | Modern, responsive websites with React & Next.js | Cross-platform apps with React Native & Expo | RESTful APIs with Node.js, Express & Firebase | Scalable schemas with MongoDB, MySQL & Firestore |
 
 </div>
