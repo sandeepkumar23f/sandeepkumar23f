@@ -54,7 +54,7 @@ const sandeep: Developer = {
   },
   passion: "Engineering scalable modern web & mobile experiences",
   
-  openToWork: true
+openToWork: true
 };
 ```
 
