@@ -165,8 +165,8 @@ I build LLM-powered features on top of full-stack apps. Here is what I have work
 <a href="https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
 </a>
-<a href="https://github.com/sandeepkumar23f/DocLens">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=DocLens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<a href="https://github.com/sandeepkumar23f/YOUR-DAILYCATCHUP-REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=YOUR-DAILYCATCHUP-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
 </a>
 
 <a href="https://github.com/sandeepkumar23f/Event-Management">
@@ -184,13 +184,11 @@ I build LLM-powered features on top of full-stack apps. Here is what I have work
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **ResearchDesk** 🤖 | Multi-agent AI research system. Search, Reader, Writer and Critic agents produce cited markdown briefs with automated quality scoring, streamed live to the UI over SSE | Python, LangChain (LCEL), Tavily, BeautifulSoup, Node.js, Express, React (Vite), Docker | [Live](https://researchdesk-qugn.onrender.com/) · [Code](https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System) |
-| **DocLens** 📄 | Upload a PDF and ask questions. Answers come only from the document, with source pages shown | Python, LangChain, Hugging Face embeddings, ChromaDB, Groq, Streamlit | [Code](https://github.com/sandeepkumar23f/DocLens) |
+| **ResearchDesk: Multi-Agent AI Research System** 🤖 | • 4-stage AI research pipeline where Search, Reader, Writer and Critic agents generate cited markdown briefs with automated quality scoring<br>• Node.js + Express backend spawns isolated Python worker processes and streams real-time progress to a React (Vite) frontend over SSE, with in-memory response caching<br>• Routes tool execution and report synthesis across separate fast and reasoning LLMs with explicit tool binding and retry backoff, to improve throughput and avoid rate-limit failures | Python, LangChain (LCEL), Tavily API, BeautifulSoup, Node.js, Express, React (Vite), SSE, Docker, Render | [Live](https://researchdesk-qugn.onrender.com/) · [Code](https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System) |
+| **Daily CatchUp: Know what matters** 📰 | Delivers short, relevant news summaries, using the Tavily API to fetch fresh data | Tavily API, Render (add the rest of your stack) | [Live](https://daily-catchup.onrender.com/) · [Code](https://github.com/sandeepkumar23f/YOUR-DAILYCATCHUP-REPO) |
 | **CompetiX** 🏆 | Contest platform for coding, quiz and typing events with real-time leaderboards, used by my college. Load-tested with k6 at 1,000+ concurrent users with under 1% failures | MongoDB, Express, React, Node.js, JWT + OTP login | [Live](https://quiz-arena-gecsv.onrender.com/) · [Code](https://github.com/sandeepkumar23f/Event-Management) |
 | **HireReach** ✉️ | Cold-email automation with bulk CSV/Excel recruiter imports, campaign dashboard and scheduled Gmail delivery, used by the college Training & Placement Cell | MERN, JWT, background job scheduling | [Live](https://hire-reach-web.vercel.app/) · [Code](https://github.com/sandeepkumar23f/hire-reach-webb) |
 | **LockedIn** 📱 | Event management mobile app with Firebase auth, real-time Firestore sync and push reminders | React Native, Expo, Firebase, TypeScript | [Code](https://github.com/sandeepkumar23f/lockedin) |
-
----
 
 ## 💼 What I'm Working On
 
