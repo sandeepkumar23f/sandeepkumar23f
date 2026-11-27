@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+%26+App+Developer;MERN+Stack+Engineer;React+Native+Developer;Building+Scalable+Modern+Applications;Turning+Ideas+Into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+%26+App+Developer;MERN+%2B+GenAI+Engineer;Building+LLM%2C+RAG+%26+Multi-Agent+Apps;React+Native+Developer;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/sandeepkumar23f?label=Followers&style=for-the-badge&color=38BDF8&logo=github" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work--38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-SDE%20%7C%20Full%20Stack-38BDF8?style=for-the-badge" />
 
 </div>
 
@@ -38,23 +38,29 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding " width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ```typescript
 const sandeep: Developer = {
   name: "Sandeep Kumar",
-  role: "Full Stack Web & App Developer",
+  role: "Full Stack Web & App Developer | GenAI Builder",
+  education: "B.Tech CSE (IoT) @ GEC Siwan, graduating May 2027",
   location: "India 🇮🇳",
   stack: {
     frontend: ["React", "Next.js", "React Native", "TypeScript"],
-    backend: ["Node.js", "Express.js", "Firebase"],
-    database: ["MongoDB", "MySQL", "Firestore"],
+    backend: ["Node.js", "Express.js", "Firebase", "Python"],
+    database: ["MongoDB", "MySQL", "Firestore", "ChromaDB"],
     styling: ["TailwindCSS", "NativeWind", "Framer Motion"],
+    genAI: ["LangChain (LCEL)", "RAG", "Groq", "Gemini", "Hugging Face", "Tavily"],
     devops: ["Docker", "GitHub Actions", "Vercel", "Render"]
   },
-  passion: "Engineering scalable modern web & mobile experiences",
-  
-openToWork: true
+  highlights: [
+    "800+ DSA problems solved (LeetCode + GFG)",
+    "Student Coordinator, Training & Placement Cell",
+    "Built apps used by my college (CompetiX, HireReach)"
+  ],
+  passion: "Engineering scalable web & mobile apps, now powered by LLMs",
+  openToWork: true
 };
 ```
 
@@ -66,12 +72,29 @@ openToWork: true
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/96/web-design.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/iphone.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/server.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/database.png" width="60" /> |
-|:---:|:---:|:---:|:---:|
-| **Web Development** | **Mobile Apps** | **Backend APIs** | **Database Design** |**Generative AI** |
-| Modern, responsive websites with React & Next.js | Cross-platform apps with React Native & Expo | RESTful APIs with Node.js, Express & Firebase | Scalable schemas with MongoDB, MySQL & Firestore |
+| <img src="https://img.icons8.com/fluency/96/web-design.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/iphone.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/server.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/database.png" width="60" /> | <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" /> |
+|:---:|:---:|:---:|:---:|:---:|
+| **Web Development** | **Mobile Apps** | **Backend APIs** | **Database Design** | **Generative AI** |
+| Modern, responsive websites with React & Next.js | Cross-platform apps with React Native & Expo | RESTful APIs with Node.js, Express & Firebase | Scalable schemas with MongoDB, MySQL & Firestore | RAG, multi-agent pipelines & structured LLM output with LangChain |
 
 </div>
+
+---
+
+## 🤖 Generative AI
+
+I build LLM-powered features on top of full-stack apps. Here is what I have worked with hands-on:
+
+| Area | What I've done |
+|---|---|
+| **LLM APIs** | Groq and Google Gemini through LangChain, with model parameters (temperature, max tokens) tuned per task |
+| **RAG pipelines** | Document loaders, text splitters, embeddings, ChromaDB, retrieval and grounded answers with source pages |
+| **Retrieval strategies** | Similarity, MMR, MultiQuery and score-threshold retrievers, compared on the same data |
+| **Embeddings** | Local Hugging Face `sentence-transformers` and Gemini embeddings, cosine-similarity search from scratch |
+| **LCEL & Runnables** | Sequence, Parallel, Passthrough and Lambda chains |
+| **Structured output** | Pydantic schemas and output parsers to turn raw text into validated JSON |
+| **Tools & agents** | `@tool` functions, Tavily web search, multi-agent Search, Reader, Writer and Critic pipeline |
+| **Local models** | Running Hugging Face models offline, and understanding their limits such as hallucination |
 
 ---
 
@@ -100,8 +123,20 @@ openToWork: true
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🤖 Generative AI & LLMs
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_API-6C5CE7?style=for-the-badge)
 
 ### 🗄️ Databases
 
@@ -123,12 +158,70 @@ openToWork: true
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+<a href="https://github.com/sandeepkumar23f/DocLens">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=DocLens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+
+<a href="https://github.com/sandeepkumar23f/Event-Management">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Event-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+<a href="https://github.com/sandeepkumar23f/hire-reach-webb">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=hire-reach-webb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+
+<a href="https://github.com/sandeepkumar23f/lockedin">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=lockedin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+
+</div>
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **ResearchDesk** 🤖 | Multi-agent AI research system. Search, Reader, Writer and Critic agents produce cited markdown briefs with automated quality scoring, streamed live to the UI over SSE | Python, LangChain (LCEL), Tavily, BeautifulSoup, Node.js, Express, React (Vite), Docker | [Live](https://researchdesk-qugn.onrender.com/) · [Code](https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System) |
+| **DocLens** 📄 | Upload a PDF and ask questions. Answers come only from the document, with source pages shown | Python, LangChain, Hugging Face embeddings, ChromaDB, Groq, Streamlit | [Code](https://github.com/sandeepkumar23f/DocLens) |
+| **CompetiX** 🏆 | Contest platform for coding, quiz and typing events with real-time leaderboards, used by my college. Load-tested with k6 at 1,000+ concurrent users with under 1% failures | MongoDB, Express, React, Node.js, JWT + OTP login | [Live](https://quiz-arena-gecsv.onrender.com/) · [Code](https://github.com/sandeepkumar23f/Event-Management) |
+| **HireReach** ✉️ | Cold-email automation with bulk CSV/Excel recruiter imports, campaign dashboard and scheduled Gmail delivery, used by the college Training & Placement Cell | MERN, JWT, background job scheduling | [Live](https://hire-reach-web.vercel.app/) · [Code](https://github.com/sandeepkumar23f/hire-reach-webb) |
+| **LockedIn** 📱 | Event management mobile app with Firebase auth, real-time Firestore sync and push reminders | React Native, Expo, Firebase, TypeScript | [Code](https://github.com/sandeepkumar23f/lockedin) |
+
+---
+
+## 💼 What I'm Working On
+
+<div align="center">
+
+```yaml
+current_focus:
+  area: "Generative AI + Full Stack"
+  exploring:
+    - RAG over real data with citations
+    - Tool calling and AI agents
+    - Evaluating LLM apps, not just building them
+  stack: ["LangChain", "Groq", "Gemini", "ChromaDB", "MERN"]
+
+learning:
+  - LangGraph and agent workflows
+  - RAG evaluation
+  - System Design
+  - AWS Cloud Services
+```
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar23f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar23f&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=sandeepkumar23f&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 <br/>
 
@@ -146,7 +239,7 @@ openToWork: true
 
 </div>
 
-
+---
 
 ## 🐍 Contribution Snake
 
@@ -158,47 +251,11 @@ openToWork: true
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sandeepkumar23f/lockedin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=lockedin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-</a>
-
-</div>
-
----
-
-## 💼 What I'm Working On
-
-<div align="center">
-
-```yaml
-current_focus:
-  project: "LockedIn - Event Management App"
-  stack: ["React Native", "Expo", "Firebase", "TypeScript"]
-  features:
-- User authentication with Firebase
-- Real-time event sync with Firestore
-- Push notification reminders
-- Multi-user data isolation
-  
-  
-  learning:
-- System Design
-- AWS Cloud Services
-- GraphQL APIs
-- Advanced TypeScript
-```
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
+
+I'm open to **Software Engineer (SDE-1)** and **Full-Stack Developer** roles, and internships.
 
 <a href="https://www.linkedin.com/in/sandeep-kumar-b9674829a/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -224,4 +281,4 @@ current_focus:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
 
-</div> 
+</div>
