@@ -163,10 +163,10 @@ I build LLM-powered features on top of full-stack apps. Here is what I have work
 <div align="center">
 
 <a href="https://github.com/sandeepkumar23f/Multi-Agent-AI-Research-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&description_lines_count=2&v=2" />
 </a>
 <a href="https://github.com/sandeepkumar23f/Daily-CatchUp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Daily-CatchUp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkumar23f&repo=Daily-CatchUp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&description_lines_count=2&v=2" />
 </a>
 
 <a href="https://github.com/sandeepkumar23f/Event-Management">
